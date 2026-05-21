@@ -1,0 +1,23 @@
+Date: 2026-05-14
+
+To: Adidas
+Subject: Sponsorship Contract Performance Billing Statement
+
+Player: Raphael Dias Belloli. 
+Contract period: multi-year
+
+Following our contractual KPI performance audit, please find the amount due:
+
+- KPI goals_scored: achieved 19.0 / threshold 15.0 -> 50000.00 EUR
+- KPI assists: achieved 5.5 / threshold 10.0 -> 0.00 EUR
+- KPI club_starting_appearances: achieved 17.0 / threshold 10.0 -> 100000.00 EUR
+- KPI national_team_starting_appearance_pct: achieved 23.0 / threshold 75.0 -> 0.00 EUR
+- KPI club_retainer_eur: achieved 9.0 / threshold 1500000.0 -> 0.00 EUR
+- KPI national_team_retainer_eur: achieved 12.5 / threshold 1500000.0 -> 0.00 EUR
+
+Audited total variable amount due: 150000.00 EUR
+
+Please proceed with payment according to the contractual payment terms.
+
+Sincerely,
+Account Management Team

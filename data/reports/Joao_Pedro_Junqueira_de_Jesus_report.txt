@@ -1,0 +1,21 @@
+Subject: Sponsorship KPI Settlement Statement
+
+Dear Finance Team,
+
+Following the KPI performance audit for **Joao Pedro Junqueira de Jesus**, please find the settlement overview below.
+
+### KPI Settlement
+
+| KPI | Contract Threshold | Source A | Source B | Reconciled Actual | Status | Variable Due | Data Confidence |
+|---|---:|---|---|---:|:---:|---:|:---:|
+| Goals Scored | 15.00 | mock_source_A: 10.00 | csv_or_mock_source_B: 11.00 | 10.50 | ❌ Not met | 0.00 EUR | 70.0% |
+| Assists | 10.00 | mock_source_A: 10.00 | csv_or_mock_source_B: 9.00 | 9.50 | ❌ Not met | 0.00 EUR | 70.0% |
+| Club Starting Appearances | 10.00 | mock_source_A: 32.00 | csv_or_mock_source_B: 30.00 | 31.00 | ✅ Met | 100,000.00 EUR | 70.0% |
+| National Team Starting Appearances (%) | 75.00% | mock_source_A: 78.00% | csv_or_mock_source_B: 74.00% | 76.00% | ✅ Met | 120,000.00 EUR | 70.0% |
+| Club Retainer (EUR) | 1,500,000.00 EUR | mock_source_A: 800,000.00 EUR | csv_or_mock_source_B: 800,000.00 EUR | 800,000.00 EUR | ❌ Not met | 0.00 EUR | 70.0% |
+| National Team Retainer (EUR) | 1,500,000.00 EUR | mock_source_A: 500,000.00 EUR | csv_or_mock_source_B: 500,000.00 EUR | 500,000.00 EUR | ❌ Not met | 0.00 EUR | 70.0% |
+
+**Total Variable Amount Due: 0.00 EUR**
+
+Kind regards,  
+**Account Management**

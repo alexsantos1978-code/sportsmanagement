@@ -1,0 +1,11 @@
+Sponsorship Contract
+Player: Sample Player
+Sponsor: Sample Sponsor
+Season: 2025-2026
+
+Performance bonuses:
+- goals: 18
+- assists: 9
+
+If goals threshold is met, sponsor pays EUR 50,000.
+If assists threshold is met, sponsor pays EUR 30,000.

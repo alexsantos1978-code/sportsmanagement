@@ -1,0 +1,21 @@
+Subject: Sponsorship KPI Settlement Statement
+
+Dear Finance Team,
+
+Following the KPI performance audit for **Raphael Dias Belloli**, please find the settlement overview below.
+
+### KPI Breakdown
+
+| KPI | Actual | Threshold | Status | Variable Due |
+|---|---:|---:|:---:|---:|
+| Goals Scored | 13.00 | 15.00 | ❌ Not met | 0.00 EUR |
+| Assists | 11.00 | 10.00 | ✅ Met | 30,000.00 EUR |
+| Club Starting Appearances | 7.00 | 10.00 | ❌ Not met | 0.00 EUR |
+| National Team Starting Appearances (%) | 10.00% | 75.00% | ❌ Not met | 0.00 EUR |
+| Club Retainer (EUR) | 19.00 EUR | 1,500,000.00 EUR | ❌ Not met | 0.00 EUR |
+| National Team Retainer (EUR) | 8.50 EUR | 1,500,000.00 EUR | ❌ Not met | 0.00 EUR |
+
+**Total Variable Amount Due: 30,000.00 EUR**
+
+Kind regards,  
+**Account Management**
